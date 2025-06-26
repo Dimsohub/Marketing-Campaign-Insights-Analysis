@@ -1,4 +1,4 @@
-# Marketing-Campaign-Insights-Analysis
+# Marketing campaign insights analysis
 
 Analyzing marketing campaigns is critical to understanding their effectiveness and optimizing future efforts to develop personalized content and advertising for customers. The idea behind the project is to demonstrate the effectiveness of various marketing campaigns and the performance of product groups and platforms using any marketing analytics data set.
 
