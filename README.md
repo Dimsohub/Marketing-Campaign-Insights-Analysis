@@ -16,4 +16,4 @@ Key Business Questions to Explore
 
 Tool: Google Colab
 
-The results can be found in the colab file
+The results can be found in the colab file and in the presentations for the project.
