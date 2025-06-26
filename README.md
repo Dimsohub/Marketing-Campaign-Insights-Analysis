@@ -13,3 +13,5 @@ Key Business Questions to Explore
 * Who are the most valuable customers, and how do they respond to campaigns?
 
 * Which platforms drive the most engagement and conversions?
+
+Tool: Google Colab
