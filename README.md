@@ -2,7 +2,7 @@
 
 Analyzing marketing campaigns is critical to understanding their effectiveness and optimizing future efforts to develop personalized content and advertising for customers. The idea behind the project is to demonstrate the effectiveness of various marketing campaigns and the performance of product groups and platforms using any marketing analytics data set.
 
-Dataset: Dataset: Marketing Analytics dataset (https://www.kaggle.com/datasets/jackdaoud/marketing-data)
+Dataset: Dataset: Marketing Analytics dataset [link](https://www.kaggle.com/datasets/jackdaoud/marketing-data)
 
 Key Business Questions to Explore
 
