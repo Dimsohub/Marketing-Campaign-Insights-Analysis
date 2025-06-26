@@ -15,3 +15,5 @@ Key Business Questions to Explore
 * Which platforms drive the most engagement and conversions?
 
 Tool: Google Colab
+
+The results can be found in the colab file
